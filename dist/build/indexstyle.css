@@ -1,0 +1,98 @@
+@font-face{
+    font-family: 'sweet';
+    font-style: normal;
+    src : url(SweetSensations.ttf)
+    format('truetype');    
+}
+
+@font-face{
+    font-family: 'keepcalm';
+    font-style:normal;
+    src : url(Keepcalm.ttf);
+}
+
+article{
+    background-image: url(img/indexbg2.jpg);
+    color: white;
+}
+
+#thumb{
+    width: 700px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    
+}
+#homepage h2{
+    font-family: 'sweet';
+    font-size: 150px;
+    color : #50E3C2;
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+}
+a{
+    color: black;
+    font-family: 'keepcalm';
+    font-weight: bold;
+}
+a:hover
+{
+    color: white;
+}
+
+.row{
+    width: 100%;
+}
+
+.col-md-4{
+    border: 2px solid #50E3C2;
+    border-radius: 1px;
+    margin : 10px;
+    font-size: 20px;
+    padding-top: 40px;
+    width: 180px;
+    height: 120px;
+}
+
+#bali{
+    background-image: url(img/bali.jpg);
+    background-size: cover;
+}
+
+#lombok{
+    background-image: url(img/lombok.jpg);
+    background-size: cover;
+}
+
+#magelang{
+    background-image: url(img/magelang.jpg);
+    background-size: cover;
+}
+
+#flores{
+    background-image: url(img/flores.jpg);
+    background-size: cover;
+}
+
+#batam{
+    background-image: url(img/Batam.jpg);
+    background-size: cover;
+}
+
+#yogyakarta{
+    background-image: url(img/yogyakarta.jpg);
+    background-size: cover;
+}
+
+#jakarta{
+    background-image: url(img/Jakarta.jpg);
+    background-size: cover;
+}
+
+#bintan{
+    background-image: url(img/bintan.jpg);
+    background-size: cover;
+}
+
+#aceh{
+    background-image: url(img/aceh.jpg);
+    background-size: cover;
+}
