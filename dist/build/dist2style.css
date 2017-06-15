@@ -46,6 +46,7 @@ h1{
     font-size: 12px;
 }
 #txt1{
+<<<<<<< HEAD
     background-image:url(img/lombok/lombok-hotel-1.jpg);
     background-size:cover;
     color:white;
@@ -94,6 +95,12 @@ h1{
     color:white;
     font-weight: bold;
 }
+=======
+    background-image:url(img/bali/bali-hotel-1-2.jpg);
+    background-size:cover;
+    color:white;
+}
+>>>>>>> 6ecc1106d5fc6516f98f6772635a75d8a3c6ac57
 .mySlides{
     width: 500px;
     height:400px;
