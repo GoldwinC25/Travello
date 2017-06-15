@@ -1,0 +1,48 @@
+@font-face{
+    font-family: 'sweet';
+    font-style: normal;
+    src : url(SweetSensations.ttf)
+    format('truetype');    
+}
+
+.navbar
+{
+    height: 50px;
+    background-color: white;
+    margin-bottom: 0;
+}
+
+.navbar-nav, .navbar-nav li{
+    margin-bottom: 0;
+}
+.navbar-header{
+    padding-left: 120px;
+    padding-right: 30px;
+}
+.navbar-brand{
+    font-family: 'sweet';
+    font-size: 35px;
+}
+
+article
+{
+    margin-top: 50px;
+    font-family: sans-serif;
+    background-image:url("img/magelangbg.jpg");
+    background-size: cover;
+}
+
+h1{
+    font-family: 'sweet';
+    font-size: 100px;
+    color: #50E3C2;
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+}
+#txt{
+    background-color: white;
+    text-align: justify;
+}
+#txt p{
+    font-size: 12px;
+}
+
