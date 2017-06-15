@@ -63,7 +63,7 @@ a:hover
 }
 
 #magelang{
-    background-image: url(img/magelang.jpg);
+    background-image: url(img/magelang/magelang.jpg);
     background-size: cover;
 }
 
@@ -88,7 +88,7 @@ a:hover
 }
 
 #bintan{
-    background-image: url(img/bintan.jpg);
+    background-image: url(img/bintan/bintan.jpg);
     background-size: cover;
 }
 

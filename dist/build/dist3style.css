@@ -28,7 +28,7 @@ article
 {
     margin-top: 50px;
     font-family: sans-serif;
-    background-image: url(img/bali/bali1.jpg);
+    background-image: url(img/magelang/magelangbg.jpg);
     background-size: cover;
 }
 
@@ -38,62 +38,64 @@ h1{
     color: #50E3C2;
     text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
 }
-#txt{
+.text{
     background-color: white;
     text-align: justify;
 }
 #txt p{
     font-size: 12px;
 }
-#txt1{
-    background-image:url(img/bali/bali-hotel-1-2.jpg);
-    background-size:cover;
-    color:white;
-}
 #txt2{
-    background-image:url(img/bali/bali-hotel-2.jpg);
+    background-image:url(img/magelang/magelang-hotel-1.jpg);
     background-size:cover;
     color:white;
 }
 #txt3{
-    background-image:url(img/bali/bali-hotel-4.jpg);
+    background-image:url(img/magelang/magelang-hotel-2.jpg);
     background-size:cover;
     color:white;
 }
 #txt4{
-    background-image:url(img/bali/bali-resto-1.jpg);
+    background-image:url(img/magelang/magelang-hotel-3.jpg);
     background-size:cover;
     color:white;
 }
 #txt5{
-    background-image:url(img/bali/bali-resto-2.jpg);
+    background-image:url(img/magelang/magelang-resto-1.jpg);
+    background-size:cover;
+    color:white;
+}
+#txt6{
+    background-image:url(img/magelang/magelang-resto-2.jpg);
     background-size:cover;
     color:black;
     font-weight: bolder;
 }
-#txt6{
-    background-image:url(img/bali/bali-resto-3.jpg);
+#txt7{
+    background-image:url(img/magelang/magelang-resto-3.jpg);
     background-size:cover;
     color:white;
 }
-#txt7{
-    background-image:url(img/bali/bali-ttd-1.jpg);
+#txt8{
+    background-image:url(img/magelang/magelang-ttd1.jpg);
     background-size:cover;
     color:black;
     font-weight: bold;
 }
-#txt8{
-    background-image:url(img/bali/bali-ttd-2.jpg);
-    background-size:cover;
-    color:white;
-    font-weight: bold;
-}
+
 #txt9{
-    background-image:url(img/bali/bali-ttd-3.jpg);
+    background-image:url(img/magelang/magelang-ttd2.jpg);
     background-size:cover;
     color:white;
     font-weight: bold;
 }
+#txt1{
+    background-image:url(img/magelang/magelang-ttd3.jpg);
+    background-size:cover;
+    color:white;
+    font-weight: bold;
+}
+
 .mySlides{
     width: 500px;
     height:400px;

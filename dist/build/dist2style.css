@@ -46,9 +46,53 @@ h1{
     font-size: 12px;
 }
 #txt1{
-    background-image:url(img/bali/bali-hotel-1-2.jpg);
+    background-image:url(img/lombok/lombok-hotel-1.jpg);
     background-size:cover;
     color:white;
+}
+#txt2{
+    background-image:url(img/lombok/lombok-hotel-2.jpg);
+    background-size:cover;
+    color:white;
+}
+#txt3{
+    background-image:url(img/lombok/lombok-hotel-3.jpg);
+    background-size:cover;
+    color:white;
+}
+#txt4{
+    background-image:url(img/lombok/lombok-resto-1.jpg);
+    background-size:cover;
+    color:white;
+}
+#txt5{
+    background-image:url(img/lombok/lombok-resto-2.jpg);
+    background-size:cover;
+    color:black;
+    font-weight: bolder;
+}
+#txt6{
+    background-image:url(img/lombok/lombok-resto-3.jpg);
+    background-size:cover;
+    color:white;
+}
+#txt7{
+    background-image:url(img/lombok/lombok-ttd1.jpg);
+    background-size:cover;
+    color:black;
+    font-weight: bold;
+}
+#txt8{
+    background-image:url(img/lombok/lombok-ttd2.jpg);
+    background-size:cover;
+    color:white;
+    font-weight: bold;
+}
+#txt9{
+    background-image:url(img/lombok/lombok-ttd3.jpg);
+    background-size:cover;
+    color:white;
+    font-weight: bold;
 }
 .mySlides{
     width: 500px;
