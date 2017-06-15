@@ -28,7 +28,7 @@ article
 {
     margin-top: 50px;
     font-family: sans-serif;
-    background-image:url("img/magelangbg.jpg");
+    background-image: url(img/lombok/lombokbg.jpg);
     background-size: cover;
 }
 
@@ -45,4 +45,72 @@ h1{
 #txt p{
     font-size: 12px;
 }
-
+#txt1{
+    background-image:url(img/bali/bali-hotel-1-2.jpg);
+    background-size:cover;
+    color:white;
+}
+.mySlides{
+    width: 500px;
+    height:400px;
+}
+#gallery {
+  display: inline;
+  width: 750px;
+  float:right;
+}
+.gallery_area{
+  float: right;
+  display: inline-block;
+  width: 750px;
+}
+.gallery_area a {  
+  display: inline-block;
+  height: 165px;
+  margin: 0 9px 18px;
+  width: 20%;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;  
+}
+.gallery_area a>img{
+  width: 100%;
+  height: 75%;  
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.gallery_area a:hover .gallery_img{
+  transform: scale(1.7);
+}
+.view_btn {
+  display: none;
+  left: -100%;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;  
+}
+.gallery_area a:hover .view_btn{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  height: 100%;
+  left:0;
+  padding-top: 34%;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.tos-caption-0{ 
+  font-family: 'Varela', sans-serif;
+  font-size: 22px;
+}

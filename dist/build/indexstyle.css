@@ -53,12 +53,12 @@ a:hover
 }
 
 #bali{
-    background-image: url(img/bali.jpg);
+    background-image: url(img/bali/bali.jpg);
     background-size: cover;
 }
 
 #lombok{
-    background-image: url(img/lombok.jpg);
+    background-image: url(img/lombok/lombokbg.jpg);
     background-size: cover;
 }
 
