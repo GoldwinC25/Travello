@@ -45,6 +45,11 @@ h1{
 #txt p{
     font-size: 12px;
 }
+#text:hover{
+    color:white;
+    background-color:black;
+    opacity:0.7; 
+}
 #txt1{
     background-image:url(img/aceh/aceh-hotel-1.jpg);
     background-size:cover;

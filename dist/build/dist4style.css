@@ -28,11 +28,8 @@ article
 {
     margin-top: 50px;
     font-family: sans-serif;
-<<<<<<< HEAD
     background-image: url(img/flores/floresbg1.jpg);
-=======
-    background-image: url(img/flores/flores2.jpg);
->>>>>>> eb1a93330dde24ab985f3057b97cbf8ed4bf72c7
+/*    background-image: url(img/flores/flores2.jpg);*/
     background-size: cover;
 }
 
@@ -43,11 +40,16 @@ h1{
     text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
 }
 .text{
-    background-color: white;
+    background-color: transparent;
     text-align: justify;
 }
 #txt p{
     font-size: 12px;
+}
+#text:hover{
+    color:white;
+    background-color:black;
+    opacity:0.7; 
 }
 #txt1{
     background-image:url(img/flores/flores-hotel-1.jpg);
@@ -72,11 +74,8 @@ h1{
 #txt5{
     background-image:url(img/flores/flores-resto-2.jpg);
     background-size:cover;
-<<<<<<< HEAD
     color:white;
-=======
     color:black;
->>>>>>> eb1a93330dde24ab985f3057b97cbf8ed4bf72c7
     font-weight: bolder;
 }
 #txt6{
